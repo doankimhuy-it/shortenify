@@ -1,2 +1,2 @@
-# Shortenify
-An application to shorten URL
+# Toolify
+A toolbox with some interesting stuff
